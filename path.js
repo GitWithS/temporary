@@ -1,0 +1,8 @@
+const path = require('path')
+console.log(path.sep)
+const filepath = path.join('/outpur','/content/','subfolder','test.txt')
+console.log(filepath)
+const base = path.basename(filepath)
+console.log(base)
+const absolute = path.resolve('outpur','content','subfolder','test.txt')
+console.log(absolute)

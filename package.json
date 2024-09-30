@@ -1,0 +1,18 @@
+{
+  "name": "dependency",
+  "version": "1.0.0",
+  "description": "hdsjsj",
+  "main": "1app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "skks"
+  ],
+  "author": "sakshi",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "lodash": "^4.17.21"
+  }
+}
