@@ -12,4 +12,4 @@ const sayHi = (name)=>{
 }
 sayHi('susan')
 sayHi(john)
-sayHi(peter)
+sayHi(john)
